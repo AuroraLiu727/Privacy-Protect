@@ -28,4 +28,10 @@
 
 <font size='4.5'>Detailed annotations can be found in the source code, and each function is annotated with the descriptions of the parameters and return values.</font>
 
+## 我的备注
+论文《Location Privacy-Aware Task Offloading in Mobile Edge Computing》中提出的MEC环境下任务卸载的位置隐私保护框架LPA-Offloading的实现代码
+
+论文链接：
+- https://ieeexplore.ieee.org/document/10065551
+
  
